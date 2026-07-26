@@ -7,11 +7,11 @@
 
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
-    int a;
-    long b;
-    char c;
-    float d;
-    double e;
+    int a{};
+    long b{};
+    char c{};
+    float d{};
+    double e{};
 
     scanf("%d %ld %c %f %lf", &a, &b, &c, &d, &e);
 
